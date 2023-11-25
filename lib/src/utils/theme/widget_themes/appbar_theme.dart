@@ -17,6 +17,7 @@ class CAppBarTheme{
     actionsIconTheme: IconThemeData(color: CColors.black, size: CSizes.iconMd),
     titleTextStyle: TextStyle(fontSize: 18.0, fontWeight: FontWeight.w600, color: CColors.black),
   );
+
   static const darkAppBarTheme = AppBarTheme(
     elevation: 0,
     centerTitle: false,
