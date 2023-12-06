@@ -21,7 +21,7 @@ class App extends StatelessWidget {
       themeMode: ThemeMode.light,
       theme: CAppTheme.lightTheme,
       debugShowCheckedModeBanner: false,
-      home: const SignupScreen(),
+      home: const WelcomeScreen(),
     );
   }
 }

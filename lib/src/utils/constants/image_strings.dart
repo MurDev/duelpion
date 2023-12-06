@@ -8,6 +8,10 @@ class CImages {
 
   // -- Social Logos
 
+  // Background Images
+  static const String bgImgMobile = "assets/images/bgImgMobile.png";
+  static const String introCardMobile = "assets/images/introCardMobile.png";
+
   // -- Category Icons
 
   // -- Brand Icons
